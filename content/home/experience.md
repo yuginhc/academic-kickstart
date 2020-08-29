@@ -24,7 +24,8 @@ date_format = "Jan 2006"
   location = "Japan"
   date_start = "2019-07-01"
   date_end = ""
-  description = """ Working on high-speed wireline transceiver
+  description = """ 
+  Working on high-speed wireline transceiver.
   Responsibilities include:
   
   * Researching
@@ -39,7 +40,8 @@ date_format = "Jan 2006"
   date_start = "2017-04-01"
   date_end = "2019-06-30"
   description = """
-  Responsibilities include: Worked on Deep Learning Inference Accelerator using FPGA
+  Worked on deep learning inference accelerator using FPGA.
+  Responsibilities include: 
   
   * Researching
   * Designing
