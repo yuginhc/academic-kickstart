@@ -50,13 +50,13 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Research Asistant"
   company = "Tokyo Institute of Technology"
-  company_url = ""
+  company_url = "https://www.titech.ac.jp/"
   location = "Japan"
   date_start = "2014-04-01"
   date_end = "2017-03-31"
   description = """Researched on 
-  * Synthesizable analog circuits,
-  * Synthesizable PLL,
-  * All-digital PLL/Injection-Locked PLL."""
+  * Synthesizable analog circuits
+  * Synthesizable PLL
+  * All-digital PLL/Injection-Locked PLL"""
 
 +++
