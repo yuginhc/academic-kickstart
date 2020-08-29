@@ -23,7 +23,7 @@ bio: My research interests include mixed-signal integrated circuit design, high-
 interests:
 - Mixed-signal integrated circuit design
 - High-speed wireline transceiver
-- High speed low power analog-to-digital converter
+- High-speed,low-power analog-to-digital converter
 - All-digital phase-locked loop
 - Deep learning hardware accelerator
 

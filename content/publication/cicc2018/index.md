@@ -39,9 +39,9 @@ summary: This paper presents a fully-synthesizable fractional-N injection-locked
 
 tags:
 - cicc
-- synthesizable pll
-- all-digital il-pll
-- fractional-N pll
+- synthesizable PLL
+- all-digital IL-PLL
+- fractional-N ADPLL
 featured: true
 
 links:

@@ -1,17 +1,18 @@
 ---
-title: "A 0.42 ps-jitter− 241.7 dB-FOM synthesizable injection-locked PLL with noise-isolation LDO"
+title: "A 0.98 mW fractional-N ADPLL using 10b isolated constant-slope DTC with FOM of− 246dB for IoT applications in 65nm CMOS"
 authors:
+- Hanli Liu
+- Dexian Tang
+- Zheng Sun
+- Wei Deng
 - Huy Cu Ngo
-- Kengo Nakata
-- Toru Yoshioka
-- Yuki Terashima
 - Kenichi Okada
 - Akira Matsuzawa
-date: "2017-02-01T00:00:00Z"
+date: "2018-02-11T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-02-01T00:00:00Z"
+publishDate: "2018-02-11T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -23,21 +24,22 @@ publication_types: ["1"]
 publication: In *IEEE International Solid-State Circuits Conference*
 publication_short: In *ISSCC*
 
-abstract: This paper presents a supply regulated synthesizable injection-locked PLL (IL-PLL), using a noise-isolation LDO. The noise-isolation LDO realizes a time-shift operation to isolate the PLL from both supply and LDO noise, so the IL-PLL operation remains robust, even within a noisy SoC. The core layout of the PLL is implemented using solely a foundry provided standard-cell library for a 65nm CMOS process with standard digital design tools. Among synthesizable PLLs, jitter performance of 0.42ps is achieved with 3.8mW power consumption at 0.9GHz oscillation.
+abstract: In a world that has become increasingly connected by the Internet, ultra-low-power (ULP) transceivers (TRX) will be key elements in a variety of short-range network applications. The RF pLl in a TRX needs a significant amount of power due to the phase noise and spurious requirement. Compared with the analog PLLs, an ADPLL is more advantageous in nm-CMOS technologies [1-6]. This paper presents a 2.0-to-2.8GHz 653μW fractional-N ADPLL that achieves -242dB FOM in 65nm CMOS for 2.4GHz ISM band applications. The best power-jitter trade-off is achieved at 981μW using a reference doubler with 535fs jitter and a -56dBc in-band fractional spur, which corresponds to a FOM of -246dB. Thanks to the proposed 10b isolated constant-slope DTC, this ADPLL breaks the -240dB FOM barrier of sub-mW fractional-N ADPLLs.
 
 # Summary. An optional shortened abstract.
-summary: This paper presents a supply regulated synthesizable injection-locked PLL (IL-PLL), using a noise-isolation LDO.
+summary: This paper presents a 2.0-to-2.8GHz 653μW fractional-N ADPLL that achieves -242dB FOM in 65nm CMOS for 2.4GHz ISM band applications.
 
 tags:
 - isscc
-- synthesizable PLL
-- all-digital il-PLL
+- all-digital PLL
+- ultra-low-power PLL
+- fractional-N ADPLL
 featured: true
 
 links:
 - name: Link
-  url: https://ieeexplore.ieee.org/abstract/document/7870305/
-url_pdf: https://ieeexplore.ieee.org/abstract/document/7870305/
+  url: https://ieeexplore.ieee.org/abstract/document/8310276
+url_pdf: https://ieeexplore.ieee.org/abstract/document/8310276
 url_code: ''
 url_dataset: ''
 url_poster: ''
