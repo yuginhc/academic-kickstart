@@ -18,7 +18,7 @@ organizations:
   url: "https://www.kioxia.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include mixed-signal integrated circuit design, high-speed wireline transceiver, high-speed ADC.
 
 interests:
 - Mixed-signal integrated circuit design
@@ -78,6 +78,6 @@ user_groups:
 - Visitors
 ---
 
-# 自己紹介
+# Hi, Welcome to my homepage!
 
 こんにちは.
