@@ -1,6 +1,6 @@
 ---
 # Display name
-title: NGO HUY CU
+title: Ngo Huy Cu
 
 # Username (this should match the folder name)
 authors:
