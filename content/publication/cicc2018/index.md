@@ -1,17 +1,26 @@
 ---
-title: "A 0.42 ps-jitter− 241.7 dB-FOM synthesizable injection-locked PLL with noise-isolation LDO"
+title: "A 1.2ps-jitter fully-synthesizable fully-calibrated fractional-N injection-locked PLL using true arbitrary nonlinearity calibration technique"
 authors:
+- Bangan Liu
 - Huy Cu Ngo
 - Kengo Nakata
+- Wei Deng
+- Yuncheng Zhang
+- Junjun Qiu
 - Toru Yoshioka
-- Yuki Terashima
+- Jun Emmei
+- Haosheng Zhang
+- Jian Pang
+- Aravind Tharayil Narayanan
+- Dongsheng Yang
+- Hanli Liu
 - Kenichi Okada
 - Akira Matsuzawa
-date: "2017-02-01T00:00:00Z"
+date: "2018-04-08T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-02-01T00:00:00Z"
+publishDate: "2018-04-08T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,24 +29,25 @@ publishDate: "2017-02-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE International Solid-State Circuits Conference*
-publication_short: In *ISSCC*
+publication: In *IEEE Custom Integrated Circuits Conference*
+publication_short: In *CICC*
 
-abstract: This paper presents a supply regulated synthesizable injection-locked PLL (IL-PLL), using a noise-isolation LDO. The noise-isolation LDO realizes a time-shift operation to isolate the PLL from both supply and LDO noise, so the IL-PLL operation remains robust, even within a noisy SoC. The core layout of the PLL is implemented using solely a foundry provided standard-cell library for a 65nm CMOS process with standard digital design tools. Among synthesizable PLLs, jitter performance of 0.42ps is achieved with 3.8mW power consumption at 0.9GHz oscillation.
+abstract: This paper presents a fully-synthesizable fractional-N injection-locked PLL in 65 nm CMOS. A true arbitrary non-linearity calibration scheme is specifically proposed for synthesizable DTC, together with an extensive digital calibration of the PLL. The RMS jitter of 1.2 ps and 0.3 ps is achieved at 1 GHz output for fractional-N and integer-N operation, respectively. The power consumption is 2.5 mW and 2.2 mW, corresponding to an FoM of -234.4 dB and -246.7 dB.
 
 # Summary. An optional shortened abstract.
-summary: This paper presents a supply regulated synthesizable injection-locked PLL (IL-PLL), using a noise-isolation LDO.
+summary: This paper presents a fully-synthesizable fractional-N injection-locked PLL in 65 nm CMOS.The power consumption is 2.5 mW and 2.2 mW, corresponding to an FoM of -234.4 dB and -246.7 dB.
 
 tags:
-- isscc
+- cicc
 - synthesizable pll
 - all-digital il-pll
+- fractional-N pll
 featured: true
 
 links:
 - name: Link
-  url: https://ieeexplore.ieee.org/abstract/document/7870305/
-url_pdf: https://ieeexplore.ieee.org/abstract/document/7870305/
+  url: https://ieeexplore.ieee.org/abstract/document/8357041
+url_pdf: https://ieeexplore.ieee.org/abstract/document/8357041
 url_code: ''
 url_dataset: ''
 url_poster: ''
