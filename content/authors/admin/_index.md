@@ -56,9 +56,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=pbTJ1gMAAAAJ&hl=en
-- icon: github
-  icon_pack: fab
-  link: https://github.com/yuginhc
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/yuginhc
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/ngohuycu/ 
@@ -78,7 +78,7 @@ user_groups:
 - Engineers
 ---
 
-# Hi, Welcome to my homepage!
+# Hi, welcome to my homepage!
 Ngo Huy Cu received the B.Eng. degree in electrical and electronic engineering and the M.Eng. degree
 in physical electronics from the Tokyo Institute of Technology, Tokyo, Japan, in 2015, and 2017,
 respectively. He was involved in mixed-signal, and synthesizable digital phase-locked loop (PLL) designs.
