@@ -33,14 +33,14 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "R&D Engineer"
+  title = "Researcher"
   company = "NTT"
   company_url = "https://www.ntt.co.jp/"
   location = "Japan"
   date_start = "2017-04-01"
   date_end = "2019-06-30"
   description = """
-  Worked on deep learning inference accelerator using FPGA.
+  Worked on deep learning accelerator using FPGA.
   Responsibilities include: 
   
   * Researching
