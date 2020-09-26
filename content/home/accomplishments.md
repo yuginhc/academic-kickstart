@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   title = "JLPT N1"
   url = ""
   certificate_url = ""
-  date_start = "2012-12-01"
+  date_start = "2011-12-01"
   date_end = ""
   description = ""
 
