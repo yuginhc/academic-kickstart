@@ -19,6 +19,26 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "JLPT"
+  organization_url = "https://www.jlpt.jp/"
+  title = "JLPT N1"
+  url = ""
+  certificate_url = ""
+  date_start = "2012-12-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "TOEIC"
+  organization_url = "https://www.iibc-global.org/toeic/"
+  title = "TOEIC-905"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-03-01"
+  date_end = ""
+  description = ""
+
+[[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
   title = "Neural Networks and Deep Learning"
